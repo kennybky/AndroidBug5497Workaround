@@ -1,0 +1,1 @@
+# AndroidBug5497Workaround
