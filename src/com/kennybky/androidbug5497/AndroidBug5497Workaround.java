@@ -49,6 +49,7 @@ public class AndroidBug5497Workaround extends CordovaPlugin {
 
         frameLayoutParams = (FrameLayout.LayoutParams) mChildOfContent.getLayoutParams();
     }
+     
 
     private void possiblyResizeChildOfContent() {
         int usableHeightNow = computeUsableHeight();
