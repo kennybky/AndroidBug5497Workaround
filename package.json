@@ -1,0 +1,25 @@
+{
+  "name": "cordova-plugin-androidbug5497workaround",
+  "version": "1.0.0",
+  "description": "Workaround for Android bug 5497",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kennybky/AndroidBug5497Workaround.git#cordova"
+  },
+  "keywords": [
+    "bug5497",
+    "cordova",
+    "plugin",
+    "android"
+  ],
+  "author": "Adekola Togunloju",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kennybky/AndroidBug5497Workaround/issues"
+  },
+  "homepage": "https://github.com/kennybky/AndroidBug5497Workaround/tree/cordova#readme"
+}
