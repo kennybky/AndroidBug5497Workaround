@@ -20,5 +20,8 @@
                 <param name="onload" value="true" />
             </feature>
         </config-file>
+
+
+           <source-file src="src/com/kenybky/androidbug5497/AndroidBug5497Workaround.java" target-dir="src/com/kenybky/androidbug5497/AndroidBug5497Workaround.java" />
     </platform>
 </plugin>
