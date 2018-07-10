@@ -22,6 +22,6 @@
         </config-file>
 
 
-           <source-file src="src/com/kenybky/androidbug5497/AndroidBug5497Workaround.java" target-dir="src/com/kenybky/androidbug5497" />
+           <source-file src="src/com/kennybky/androidbug5497/AndroidBug5497Workaround.java" target-dir="src/com/kennybky/androidbug5497" />
     </platform>
 </plugin>
